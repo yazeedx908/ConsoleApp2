@@ -1,5 +1,5 @@
 ﻿line1:
-Console.WriteLine("ENTER WHAT YOU NEED");
+Console.WriteLine("ENTER WHA");
 var job = Console.ReadLine();
 if(job == "+")
 {
